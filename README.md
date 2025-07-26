@@ -1,5 +1,6 @@
 # ITP GUIDE 10.1
 ### Basic Node.js Backend Setup Guide
+> **Note:** You are viewing the documentation for the `BE/node` branch. For other guides, please switch to the appropriate branch as described in the main branch's README.
 
 ## Prerequisites
 
@@ -10,11 +11,12 @@
 
 ## Getting Started
 
-### 1. Clone the Repository
+### 1. Clone the Repository and Switch Branch
 
 ```bash
 git clone https://github.com/sahanperera00/ITP-10.1.git
 cd ITP-10.1
+git checkout BE/node
 ```
 
 ### 2. Install Dependencies
